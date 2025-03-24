@@ -1,6 +1,6 @@
 import React from "react";
 import { MdKeyboardArrowRight } from "react-icons/md";
-import HeroImage from "../assets/heroImage.JPG";
+import image from "../assets/image.JPG";
 import { Link } from "react-scroll";
 
 const Home = () => {
@@ -15,9 +15,9 @@ const Home = () => {
             Hey there, I am Satyam Kumar Singh
           </h2>
           <p className="text-gray-200 py-4 max-w-md">
-            I have recently appeared in final semester examination for Bachelor's degree in Computer Engineering
-            from IOE Purwanchal Campus, Dharan. Currently, I'm focused on
-            refining my skills in front-end development. I've completed
+            I have completed my Bachelor's degree in Computer Engineering
+            from IOE Purwanchal Campus, Dharan and have recently obtained Computer Engineer's licence from Nepal Engineering Council . Currently, I'm focused on
+            refining my skills in front-end development.I've completed
             numerous online courses in this field to enhance my expertise.
           </p>
           <div>
@@ -36,7 +36,7 @@ const Home = () => {
         </div>
         <div >
           <img
-            src={HeroImage}
+            src={image}
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
           />

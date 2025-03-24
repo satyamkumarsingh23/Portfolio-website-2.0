@@ -10,7 +10,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-0.5xl sm:text-xl mt-5">
-        Driven by a deep passion for technology and front-end development, I am a dedicated computer engineering student eager to make my mark in the industry. With a solid foundation in HTML, CSS, and JavaScript, along with practical experience in React, I thrive on building interactive and visually appealing user interfaces. Proficient in version control using Git and GitHub, I am adept at collaborating with teams to deliver high-quality projects.
+        Driven by a deep passion for Information Technology, I am a dedicated computer engineer eager to make my mark in the industry. With a solid foundation in HTML, CSS, and JavaScript, along with practical experience in React, I thrive on building interactive and visually appealing user interfaces. Proficient in version control using Git and GitHub, I am adept at collaborating with teams to deliver high-quality projects.As an IT intern, I got to learn about AD, VLAN and other networking stuffs.
         </p>
 
         <br />
